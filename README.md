@@ -44,7 +44,7 @@ Una vez que los contenedores estén en funcionamiento, abri una nueva terminal y
 1. Clona el repositorio:
 
     ```
-    git clone https://github.com/jpromanonet/changelogs_tracker.git
+    git clone https://github.com/jpromanonet/changelogsTracker.git
     cd changelogs_tracker/backend
     ```
 2. Crea y activa un entorno virtual:
